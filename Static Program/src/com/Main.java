@@ -6,5 +6,6 @@ class Main {
 		System.out.println("Department: "+College.department);
 		College.study();
 		School.study();
+		System.out.println("done");
 	}
 }
