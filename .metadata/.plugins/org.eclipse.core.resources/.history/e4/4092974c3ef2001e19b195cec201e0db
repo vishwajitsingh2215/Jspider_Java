@@ -1,0 +1,9 @@
+package com;
+
+class College {
+	static String name="Luffy";
+	static String department="CSE";
+	static void study() {
+		System.out.println("Studying JAVA");
+	}
+}

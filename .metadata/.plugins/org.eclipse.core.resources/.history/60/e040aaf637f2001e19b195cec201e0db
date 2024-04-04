@@ -1,0 +1,9 @@
+package com;
+
+class Person {
+	int age=24 ;
+	String name="Luffy";
+	void walk() {
+		System.err.println(name+" Person is walking");
+	}
+}
