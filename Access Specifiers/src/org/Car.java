@@ -6,5 +6,6 @@ class Car extends Vehicle {
 		Car c= new Car();
 		System.out.println("Brand: "+c.brand);
 		System.out.println("Model: "+c.model);
+		System.out.println("Color: "+c.color);
 	}
 }

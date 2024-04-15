@@ -6,6 +6,7 @@ public class MainMobile {
 		Mobile m = new Mobile();
 		System.out.println("Brand: "+ m.brand);
 		System.out.println("Cost: "+ m.cost);
+		System.out.println("Operating System: "+m.os);
 		Mobile.call();
 	}
 }
